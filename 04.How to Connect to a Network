@@ -1,0 +1,7 @@
+ 
+                    ~ How to Connect to a Network ~
+                    
+- Firstly, we need a network card to connect to any network. All kinds of data on the network are transmitted or received through the network card.
+- Network cards can detect and convert incoming protocols.
+- To connect to the internet, we need a modem.
+- The modem contains a bridge called the Default Gateway. This allows us to communicate with other networks.
